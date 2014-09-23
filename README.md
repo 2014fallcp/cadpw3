@@ -1,2 +1,2 @@
-20140923 github localhost openshift
+與 github openshift 同步
 
